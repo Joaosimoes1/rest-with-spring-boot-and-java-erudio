@@ -14,6 +14,8 @@ spring:
         dialect: org.hibernate.dialect.MySQL8Dialect
     show-sql: false
     open-in-view: false
-  logging:
-    level:
-      pt.com.Simoes: DEBUG
+
+logging:
+  level:
+    #root: DEBUG
+    pt.com.Simoes: DEBUG
