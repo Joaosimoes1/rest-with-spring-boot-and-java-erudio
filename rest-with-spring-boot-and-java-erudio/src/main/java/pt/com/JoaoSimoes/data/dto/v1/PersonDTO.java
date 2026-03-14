@@ -1,4 +1,4 @@
-package pt.com.JoaoSimoes.data.dto;
+package pt.com.JoaoSimoes.data.dto.v1;
 
 import java.io.Serializable;
 import java.util.Objects;

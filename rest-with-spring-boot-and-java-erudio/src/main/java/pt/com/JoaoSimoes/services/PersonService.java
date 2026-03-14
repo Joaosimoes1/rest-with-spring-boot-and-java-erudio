@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import pt.com.JoaoSimoes.data.dto.PersonDTO;
+import pt.com.JoaoSimoes.data.dto.v1.PersonDTO;
 import pt.com.JoaoSimoes.exception.ResourceNotFoundException;
 import pt.com.JoaoSimoes.mapper.ObjectMapper;
 import pt.com.JoaoSimoes.model.Person;

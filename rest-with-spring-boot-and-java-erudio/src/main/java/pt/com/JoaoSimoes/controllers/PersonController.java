@@ -5,7 +5,7 @@ import org.springframework.http.MediaType;
 import org.springframework.http.RequestEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import pt.com.JoaoSimoes.data.dto.PersonDTO;
+import pt.com.JoaoSimoes.data.dto.v1.PersonDTO;
 import pt.com.JoaoSimoes.services.PersonService;
 import pt.com.JoaoSimoes.model.Person;
 

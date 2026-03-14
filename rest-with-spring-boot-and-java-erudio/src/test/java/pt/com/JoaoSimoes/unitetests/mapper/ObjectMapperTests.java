@@ -2,7 +2,7 @@ package pt.com.JoaoSimoes.unitetests.mapper;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import pt.com.JoaoSimoes.data.dto.PersonDTO;
+import pt.com.JoaoSimoes.data.dto.v1.PersonDTO;
 import pt.com.JoaoSimoes.model.Person;
 import pt.com.JoaoSimoes.unitetests.mapper.mocks.MockPerson;
 

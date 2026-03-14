@@ -3,7 +3,7 @@ package pt.com.JoaoSimoes.unitetests.mapper.mocks;
 import java.util.ArrayList;
 import java.util.List;
 
-import pt.com.JoaoSimoes.data.dto.PersonDTO;
+import pt.com.JoaoSimoes.data.dto.v1.PersonDTO;
 import pt.com.JoaoSimoes.model.Person;
 
 public class MockPerson {
