@@ -7,11 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Startup {
 
 	public static void main(String[] args) {
-        try {
-            SpringApplication.run(Startup.class, args);
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
+        SpringApplication.run(Startup.class, args);
     }
 
 }

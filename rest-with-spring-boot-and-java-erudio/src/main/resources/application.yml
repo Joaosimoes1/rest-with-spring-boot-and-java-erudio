@@ -19,3 +19,8 @@ logging:
   level:
     #root: DEBUG
     pt.com.Simoes: DEBUG
+
+springdoc:
+  paths-to-match: /api/**/v1/**
+  swagger-ui:
+    user-root-path: true
